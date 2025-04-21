@@ -119,18 +119,12 @@ Many other factors come into play when we deploy a full-fledged Django applicati
 To fulfill some of these factors, one can also use the `AWS Beanstalk` service to deploy Django apps more efficiently.
 
 **Happy Learning!**
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
+  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+- **GitHub**: (https://github.com/iam-jitendra/Django-ECR-and-ECS-Deployment)
+- **LinkedIn**: [Jitendra Namdev](https://www.linkedin.com/in/jitendra-namdev-3ab70a302)
 
 ---
 
